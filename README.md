@@ -12,5 +12,5 @@ The project is about creating the functionality to view, edit, update, and delet
 * Python3
 * Django
 
-## Run the script
+## Running the script
 * To see the website on your local server, run `python3 manage.py runserver`.
